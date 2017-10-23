@@ -1,4 +1,4 @@
-package se.dl.planetweb.planetweb;
+package se.dl.planetweb;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
